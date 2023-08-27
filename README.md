@@ -1,10 +1,7 @@
-# Halo semua! 
+Hello There! Let me introduce myself.
+I'm a Passionate Mobile Developer with two plus years of experience in Full-stack Mobile development, able to work independently and in a team under pressure, and has published mobile apps that benefit a lot of people.
 
-Perkenalkan nama saya **Afif Osamaladen**.  
-
-Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).  
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afif-osamaladen-76aa4020a/) ku ya.  
+[Linkedin](https://www.linkedin.com/in/afif-osamaladen/).  
 
 <p align="left">
 <a href="https://github.com/AfifOsama">
